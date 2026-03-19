@@ -13,7 +13,9 @@ const allowedOrigins = [
   'https://www.txemaserrano.com',
   'http://www.txemaserrano.com',
   'https://txemaserrano.com',
-  'http://txemaserrano.com'
+  'http://txemaserrano.com',
+  'https://txemaserrano.com/angular/nasdaq',
+  'http://txemaserrano.com/angular/nasdaq'
 ];
 
 app.use(cors({
